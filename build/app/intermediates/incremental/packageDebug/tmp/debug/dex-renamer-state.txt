@@ -1,0 +1,4 @@
+#Tue May 07 11:56:41 EET 2019
+base.0=/home/rooot/Desktop/Projects/Flutter Projects/qr_code_gen/qr_code_gen/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
